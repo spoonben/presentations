@@ -70,7 +70,7 @@ var parkHotel = new Hotel('Park', 120, 77);
 Arrays are actually a special type of object that hold a related set of key/value pairs, but the key for each value is its index number.
 
 
-![image](images/Object_Array.png)
+![image](images/object_array.png)
 ```
 cost = {
 	room1: 420,
@@ -84,7 +84,7 @@ cost.room1
 ```
 
 
-![image](images/Object_Array.png)
+![image](images/abject_array.png)
 ```
 cost = [420, 540, 300];
 cost[0];
