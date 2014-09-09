@@ -1,0 +1,11 @@
+body                   {font-family:'Arial';padding:10px;}
+.main                  {width:50%;}
+.left                  {float:left;}
+.contact-list          {width:200px; height:200px; padding: 10px 5px; text-align:center; background:#ecf0f1;
+                        display:inline-block;float:left;}
+.contact-list ul       {margin:0;padding:0;list-style:none;}
+.contact-list li       {margin:0 auto; text-align:center; padding:5px 0; background:#00adef; color:#FFF;
+                        cursor:pointer;}
+.contact-list li:hover {background:#FFF; color:#000;}
+.contact-display       {display:inline-block;height:200px; float:left; margin:0 10px; display:none;}
+.details               {margin:30px 0;}
